@@ -6,7 +6,6 @@ Requisitos Técnicos
 * **Java 21** (JDK 21)
 * **Gradle** (Se incluye Gradle Wrapper `./gradlew`)
 
----
 
 Estructura del Proyecto
 El proyecto está organizado bajo una arquitectura limpia por capas orientada a microservicios:
